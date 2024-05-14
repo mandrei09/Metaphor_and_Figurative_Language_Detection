@@ -1,6 +1,6 @@
 # Metaphor and Figurative Language Detection
 
-Welcome to the repository for Metaphor and Figurative Language Detection! This repository contains resources related to the detection of metaphorical and figurative language in text.
+Welcome to the repository for Metaphor and Figurative Language Detection project for NLP.
 
 ## Contents
 
